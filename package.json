@@ -1,0 +1,16 @@
+{
+  "name": "razr-steam-bot",
+  "version": "1.0.0",
+  "description": "Steam Bot",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "npm test"
+  },
+  "author": "Henrick Martins",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3",
+    "steam": "0.6.8"
+  }
+}
